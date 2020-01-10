@@ -1,0 +1,144 @@
+StartChar: tm_anusvar
+Encoding: 2946 2946 242
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHW_1
+ 24
+MDAP[rnd]
+PUSHW_1
+ 12
+MDAP[rnd]
+NPUSHW
+ 5
+ 218
+ 12
+ 234
+ 12
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 12
+ 25
+ 12
+ 41
+ 12
+ 57
+ 12
+ 73
+ 12
+ 89
+ 12
+ 105
+ 12
+ 121
+ 12
+ 137
+ 12
+ 153
+ 12
+ 169
+ 12
+ 185
+ 12
+ 201
+ 12
+ 13
+DELTAP1
+PUSHW_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 24
+SRP0
+PUSHW_1
+ 6
+MDRP[rp0,grey]
+PUSHW_1
+ 6
+MDAP[rnd]
+PUSHW_1
+ 18
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 27
+ 6
+ 18
+ 22
+ 18
+ 38
+ 18
+ 54
+ 18
+ 70
+ 18
+ 86
+ 18
+ 102
+ 18
+ 118
+ 18
+ 134
+ 18
+ 150
+ 18
+ 166
+ 18
+ 182
+ 18
+ 198
+ 18
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 18
+ 229
+ 18
+ 2
+DELTAP1
+SVTCA[y-axis]
+PUSHW_4
+ 21
+ 2
+ 3
+ 4
+CALL
+PUSHW_4
+ 9
+ 2
+ 15
+ 4
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+-26 997 m 0,0,1
+ -26 946 -26 946 -61 911 c 128,-1,2
+ -96 876 -96 876 -149 876 c 0,3,4
+ -199 876 -199 876 -235 912 c 128,-1,5
+ -271 948 -271 948 -271 997 c 0,6,7
+ -271 1050 -271 1050 -236 1085 c 128,-1,8
+ -201 1120 -201 1120 -149 1120 c 0,9,10
+ -96 1120 -96 1120 -61 1085 c 128,-1,11
+ -26 1050 -26 1050 -26 997 c 0,0,1
+-71 997 m 0,12,13
+ -71 1028 -71 1028 -94 1051 c 128,-1,14
+ -117 1074 -117 1074 -150 1074 c 0,15,16
+ -182 1074 -182 1074 -204.5 1051 c 128,-1,17
+ -227 1028 -227 1028 -227 997 c 0,18,19
+ -227 964 -227 964 -204.5 940.5 c 128,-1,20
+ -182 917 -182 917 -150 917 c 0,21,22
+ -117 917 -117 917 -94 940 c 128,-1,23
+ -71 963 -71 963 -71 997 c 0,12,13
+EndSplineSet
+Position2: "'dist' Distance in Tamil lookup 1 subtable" dx=-400 dy=0 dh=-800 dv=0
+Position2: "'dist' Distance in Tamil2 lookup 0 subtable" dx=-400 dy=0 dh=-800 dv=0
+EndChar

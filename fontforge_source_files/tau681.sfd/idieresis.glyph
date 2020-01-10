@@ -1,0 +1,10 @@
+StartChar: idieresis
+Encoding: 239 239 401
+Width: 401
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 257 305 N 1 0 0 1 0 0 3
+Refer: 335 168 N 1 0 0 1 -59 0 2
+EndChar

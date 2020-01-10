@@ -1,0 +1,206 @@
+StartChar: ordmasculine
+Encoding: 186 186 348
+Width: 447
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 24
+MDAP[rnd]
+PUSHW_1
+ 12
+MDAP[rnd]
+NPUSHW
+ 5
+ 218
+ 12
+ 234
+ 12
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 12
+ 25
+ 12
+ 41
+ 12
+ 57
+ 12
+ 73
+ 12
+ 89
+ 12
+ 105
+ 12
+ 121
+ 12
+ 137
+ 12
+ 153
+ 12
+ 169
+ 12
+ 185
+ 12
+ 201
+ 12
+ 13
+DELTAP1
+PUSHW_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 24
+SRP0
+PUSHW_1
+ 6
+MDRP[rp0,grey]
+PUSHW_1
+ 6
+MDAP[rnd]
+PUSHW_1
+ 18
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 27
+ 6
+ 18
+ 22
+ 18
+ 38
+ 18
+ 54
+ 18
+ 70
+ 18
+ 86
+ 18
+ 102
+ 18
+ 118
+ 18
+ 134
+ 18
+ 150
+ 18
+ 166
+ 18
+ 182
+ 18
+ 198
+ 18
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 18
+ 229
+ 18
+ 2
+DELTAP1
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 25
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 15
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 15
+ 10
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 9
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 9
+ 10
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 15
+SRP0
+PUSHW_1
+ 3
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 5
+ 217
+ 3
+ 233
+ 3
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 8
+ 3
+ 24
+ 3
+ 40
+ 3
+ 56
+ 3
+ 72
+ 3
+ 88
+ 3
+ 104
+ 3
+ 120
+ 3
+ 136
+ 3
+ 152
+ 3
+ 168
+ 3
+ 184
+ 3
+ 200
+ 3
+ 13
+DELTAP1
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+567 847 m 0,0,1
+ 567 744 567 744 486 664.5 c 128,-1,2
+ 405 585 405 585 302 585 c 0,3,4
+ 239 585 239 585 200 622.5 c 128,-1,5
+ 161 660 161 660 161 717 c 0,6,7
+ 161 815 161 815 243.5 896.5 c 128,-1,8
+ 326 978 326 978 428 978 c 0,9,10
+ 489 978 489 978 528 940.5 c 128,-1,11
+ 567 903 567 903 567 847 c 0,0,1
+491 875 m 0,12,13
+ 491 913 491 913 470.5 934.5 c 128,-1,14
+ 450 956 450 956 416 956 c 0,15,16
+ 348 956 348 956 292 865.5 c 128,-1,17
+ 236 775 236 775 236 690 c 0,18,19
+ 236 651 236 651 258 628.5 c 128,-1,20
+ 280 606 280 606 315 606 c 0,21,22
+ 377 606 377 606 434 694 c 128,-1,23
+ 491 782 491 782 491 875 c 0,12,13
+EndSplineSet
+EndChar

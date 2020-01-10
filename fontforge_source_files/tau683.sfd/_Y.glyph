@@ -1,0 +1,760 @@
+StartChar: Y
+Encoding: 89 89 283
+Width: 1043
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 60
+CALL
+PUSHW_4
+ 116
+ 95
+ 110
+ 64
+CALL
+PUSHW_4
+ 92
+ 95
+ 86
+ 64
+CALL
+PUSHW_4
+ 68
+ 95
+ 62
+ 64
+CALL
+PUSHW_4
+ 56
+ 95
+ 50
+ 64
+CALL
+PUSHW_4
+ 80
+ 95
+ 74
+ 64
+CALL
+PUSHW_4
+ 128
+ 95
+ 122
+ 64
+CALL
+PUSHW_4
+ 104
+ 95
+ 98
+ 64
+CALL
+NPUSHW
+ 5
+ 58
+ 74
+ 74
+ 74
+ 2
+DELTAP2
+NPUSHW
+ 33
+ 9
+ 74
+ 25
+ 74
+ 41
+ 74
+ 57
+ 74
+ 73
+ 74
+ 89
+ 74
+ 105
+ 74
+ 121
+ 74
+ 137
+ 74
+ 153
+ 74
+ 169
+ 74
+ 185
+ 74
+ 201
+ 74
+ 217
+ 74
+ 233
+ 74
+ 249
+ 74
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 9
+ 74
+ 25
+ 74
+ 41
+ 74
+ 3
+DELTAP2
+PUSHW_3
+ 0
+ 74
+ 80
+SRP1
+SRP2
+IP
+PUSHW_1
+ 74
+SRP0
+PUSHW_1
+ 5
+MDRP[rp0,grey]
+PUSHW_3
+ 10
+ 74
+ 80
+SRP1
+SRP2
+IP
+NPUSHW
+ 33
+ 6
+ 68
+ 22
+ 68
+ 38
+ 68
+ 54
+ 68
+ 70
+ 68
+ 86
+ 68
+ 102
+ 68
+ 118
+ 68
+ 134
+ 68
+ 150
+ 68
+ 166
+ 68
+ 182
+ 68
+ 198
+ 68
+ 214
+ 68
+ 230
+ 68
+ 246
+ 68
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 6
+ 68
+ 22
+ 68
+ 38
+ 68
+ 3
+DELTAP2
+NPUSHW
+ 5
+ 53
+ 68
+ 69
+ 68
+ 2
+DELTAP2
+PUSHW_3
+ 13
+ 62
+ 68
+SRP1
+SRP2
+IP
+PUSHW_1
+ 68
+SRP0
+PUSHW_1
+ 18
+MDRP[rp0,grey]
+PUSHW_3
+ 23
+ 62
+ 68
+SRP1
+SRP2
+IP
+PUSHW_1
+ 62
+SRP0
+PUSHW_1
+ 29
+MDRP[rp0,grey]
+PUSHW_1
+ 50
+SRP0
+PUSHW_1
+ 37
+MDRP[rp0,grey]
+NPUSHW
+ 33
+ 6
+ 56
+ 22
+ 56
+ 38
+ 56
+ 54
+ 56
+ 70
+ 56
+ 86
+ 56
+ 102
+ 56
+ 118
+ 56
+ 134
+ 56
+ 150
+ 56
+ 166
+ 56
+ 182
+ 56
+ 198
+ 56
+ 214
+ 56
+ 230
+ 56
+ 246
+ 56
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 6
+ 56
+ 22
+ 56
+ 38
+ 56
+ 3
+DELTAP2
+NPUSHW
+ 5
+ 53
+ 56
+ 69
+ 56
+ 2
+DELTAP2
+PUSHW_3
+ 43
+ 50
+ 56
+SRP1
+SRP2
+IP
+NPUSHW
+ 33
+ 6
+ 92
+ 22
+ 92
+ 38
+ 92
+ 54
+ 92
+ 70
+ 92
+ 86
+ 92
+ 102
+ 92
+ 118
+ 92
+ 134
+ 92
+ 150
+ 92
+ 166
+ 92
+ 182
+ 92
+ 198
+ 92
+ 214
+ 92
+ 230
+ 92
+ 246
+ 92
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 6
+ 92
+ 22
+ 92
+ 38
+ 92
+ 3
+DELTAP2
+NPUSHW
+ 5
+ 53
+ 92
+ 69
+ 92
+ 2
+DELTAP2
+NPUSHW
+ 5
+ 58
+ 98
+ 74
+ 98
+ 2
+DELTAP2
+NPUSHW
+ 33
+ 9
+ 98
+ 25
+ 98
+ 41
+ 98
+ 57
+ 98
+ 73
+ 98
+ 89
+ 98
+ 105
+ 98
+ 121
+ 98
+ 137
+ 98
+ 153
+ 98
+ 169
+ 98
+ 185
+ 98
+ 201
+ 98
+ 217
+ 98
+ 233
+ 98
+ 249
+ 98
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 9
+ 98
+ 25
+ 98
+ 41
+ 98
+ 3
+DELTAP2
+NPUSHW
+ 33
+ 6
+ 116
+ 22
+ 116
+ 38
+ 116
+ 54
+ 116
+ 70
+ 116
+ 86
+ 116
+ 102
+ 116
+ 118
+ 116
+ 134
+ 116
+ 150
+ 116
+ 166
+ 116
+ 182
+ 116
+ 198
+ 116
+ 214
+ 116
+ 230
+ 116
+ 246
+ 116
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 6
+ 116
+ 22
+ 116
+ 38
+ 116
+ 3
+DELTAP2
+NPUSHW
+ 5
+ 53
+ 116
+ 69
+ 116
+ 2
+DELTAP2
+NPUSHW
+ 5
+ 58
+ 122
+ 74
+ 122
+ 2
+DELTAP2
+NPUSHW
+ 33
+ 9
+ 122
+ 25
+ 122
+ 41
+ 122
+ 57
+ 122
+ 73
+ 122
+ 89
+ 122
+ 105
+ 122
+ 121
+ 122
+ 137
+ 122
+ 153
+ 122
+ 169
+ 122
+ 185
+ 122
+ 201
+ 122
+ 217
+ 122
+ 233
+ 122
+ 249
+ 122
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 9
+ 122
+ 25
+ 122
+ 41
+ 122
+ 3
+DELTAP2
+PUSHW_1
+ 128
+SRP0
+PUSHW_1
+ 132
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 90
+RCVT
+IF
+PUSHW_1
+ 11
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 11
+ 98
+MIAP[no-rnd]
+EIF
+PUSHW_4
+ 25
+ 92
+ 107
+ 64
+CALL
+PUSHW_3
+ 77
+ 2
+ 63
+CALL
+PUSHW_4
+ 113
+ 93
+ 83
+ 64
+CALL
+PUSHW_1
+ 11
+SRP0
+PUSHW_2
+ 8
+ 93
+MIRP[rp0,rnd,grey]
+NPUSHW
+ 33
+ 7
+ 8
+ 23
+ 8
+ 39
+ 8
+ 55
+ 8
+ 71
+ 8
+ 87
+ 8
+ 103
+ 8
+ 119
+ 8
+ 135
+ 8
+ 151
+ 8
+ 167
+ 8
+ 183
+ 8
+ 199
+ 8
+ 215
+ 8
+ 231
+ 8
+ 247
+ 8
+ 16
+DELTAP1
+NPUSHW
+ 7
+ 7
+ 8
+ 23
+ 8
+ 39
+ 8
+ 3
+DELTAP2
+NPUSHW
+ 5
+ 54
+ 8
+ 70
+ 8
+ 2
+DELTAP2
+PUSHW_1
+ 15
+MDRP[rp0,grey]
+PUSHW_1
+ 2
+SRP0
+PUSHW_1
+ 21
+MDRP[rp0,grey]
+PUSHW_1
+ 113
+SRP0
+PUSHW_1
+ 32
+MDRP[rp0,grey]
+PUSHW_1
+ 59
+MDRP[rp0,min,rnd,grey]
+PUSHW_3
+ 43
+ 32
+ 59
+SRP1
+SRP2
+IP
+PUSHW_1
+ 25
+SRP0
+PUSHW_1
+ 44
+MDRP[rp0,grey]
+PUSHW_1
+ 2
+SRP0
+PUSHW_2
+ 53
+ 93
+MIRP[rp0,rnd,grey]
+PUSHW_1
+ 77
+SRP0
+PUSHW_1
+ 65
+MDRP[rp0,grey]
+PUSHW_1
+ 59
+SRP0
+PUSHW_1
+ 71
+MDRP[rp0,grey]
+PUSHW_1
+ 83
+SRP0
+PUSHW_1
+ 95
+MDRP[rp0,grey]
+PUSHW_1
+ 107
+SRP0
+PUSHW_1
+ 119
+MDRP[rp0,grey]
+PUSHW_1
+ 113
+SRP0
+PUSHW_1
+ 125
+MDRP[rp0,grey]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+610 177 m 1,0,1
+ 598 183 598 183 589 183 c 0,2,3
+ 569 183 569 183 554 168 c 128,-1,4
+ 539 153 539 153 539 131 c 0,5,6
+ 539 112 539 112 554 97 c 128,-1,7
+ 569 82 569 82 590 82 c 0,8,9
+ 598 82 598 82 610 86 c 1,10,-1
+ 610 0 l 1,11,-1
+ 329 0 l 1,12,-1
+ 329 86 l 1,13,14
+ 340 82 340 82 348 82 c 0,15,16
+ 369 82 369 82 384.5 97 c 128,-1,17
+ 400 112 400 112 400 132 c 0,18,19
+ 400 153 400 153 384.5 168 c 128,-1,20
+ 369 183 369 183 348 183 c 0,21,22
+ 340 183 340 183 329 178 c 1,23,-1
+ 329 506 l 1,24,-1
+ -49 1200 l 1,25,-1
+ 279 1200 l 1,26,-1
+ 315 1128 l 1,27,28
+ 299 1111 299 1111 299 1094 c 0,29,30
+ 299 1072 299 1072 314 1056.5 c 128,-1,31
+ 329 1041 329 1041 351 1041 c 0,32,33
+ 355 1041 355 1041 357 1041 c 2,34,-1
+ 435 888 l 1,35,36
+ 419 873 419 873 419 854 c 0,37,38
+ 419 832 419 832 433.5 817 c 128,-1,39
+ 448 802 448 802 469 802 c 0,40,41
+ 472 802 472 802 478 803 c 1,42,-1
+ 507 744 l 1,43,-1
+ 734 1200 l 1,44,-1
+ 987 1200 l 1,45,-1
+ 610 506 l 1,46,-1
+ 610 177 l 1,0,1
+466 423 m 0,47,48
+ 446 423 446 423 432.5 408 c 128,-1,49
+ 419 393 419 393 419 372 c 0,50,51
+ 419 352 419 352 433.5 336.5 c 128,-1,52
+ 448 321 448 321 469 321 c 256,53,54
+ 490 321 490 321 504.5 336.5 c 128,-1,55
+ 519 352 519 352 519 372 c 0,56,57
+ 519 393 519 393 504 408 c 128,-1,58
+ 489 423 489 423 466 423 c 0,47,48
+346 662 m 0,59,60
+ 327 662 327 662 313 647.5 c 128,-1,61
+ 299 633 299 633 299 612 c 256,62,63
+ 299 591 299 591 313.5 576.5 c 128,-1,64
+ 328 562 328 562 349 562 c 256,65,66
+ 370 562 370 562 385 576.5 c 128,-1,67
+ 400 591 400 591 400 612 c 256,68,69
+ 400 633 400 633 384 647.5 c 128,-1,70
+ 368 662 368 662 346 662 c 0,59,60
+586 662 m 0,71,72
+ 567 662 567 662 553 647.5 c 128,-1,73
+ 539 633 539 633 539 612 c 256,74,75
+ 539 591 539 591 553.5 576.5 c 128,-1,76
+ 568 562 568 562 589 562 c 256,77,78
+ 610 562 610 562 625 576.5 c 128,-1,79
+ 640 591 640 591 640 612 c 256,80,81
+ 640 633 640 633 624 647.5 c 128,-1,82
+ 608 662 608 662 586 662 c 0,71,72
+227 903 m 0,83,84
+ 207 903 207 903 193 888 c 128,-1,85
+ 179 873 179 873 179 851 c 0,86,87
+ 179 832 179 832 193.5 817 c 128,-1,88
+ 208 802 208 802 229 802 c 256,89,90
+ 250 802 250 802 265.5 817 c 128,-1,91
+ 281 832 281 832 281 851 c 0,92,93
+ 281 873 281 873 264.5 888 c 128,-1,94
+ 248 903 248 903 227 903 c 0,83,84
+706 903 m 0,95,96
+ 687 903 687 903 673 888 c 128,-1,97
+ 659 873 659 873 659 851 c 0,98,99
+ 659 832 659 832 673.5 817 c 128,-1,100
+ 688 802 688 802 709 802 c 256,101,102
+ 730 802 730 802 745 817 c 128,-1,103
+ 760 832 760 832 760 851 c 0,104,105
+ 760 873 760 873 744.5 888 c 128,-1,106
+ 729 903 729 903 706 903 c 0,95,96
+106 1142 m 0,107,108
+ 87 1142 87 1142 72.5 1127 c 128,-1,109
+ 58 1112 58 1112 58 1092 c 0,110,111
+ 58 1070 58 1070 73 1055.5 c 128,-1,112
+ 88 1041 88 1041 109 1041 c 256,113,114
+ 130 1041 130 1041 145 1055.5 c 128,-1,115
+ 160 1070 160 1070 160 1092 c 0,116,117
+ 160 1111 160 1111 144.5 1126.5 c 128,-1,118
+ 129 1142 129 1142 106 1142 c 0,107,108
+826 1142 m 0,119,120
+ 806 1142 806 1142 792 1127 c 128,-1,121
+ 778 1112 778 1112 778 1092 c 0,122,123
+ 778 1070 778 1070 792.5 1055.5 c 128,-1,124
+ 807 1041 807 1041 829 1041 c 0,125,126
+ 850 1041 850 1041 865 1055.5 c 128,-1,127
+ 880 1070 880 1070 880 1092 c 0,128,129
+ 880 1111 880 1111 864 1126.5 c 128,-1,130
+ 848 1142 848 1142 826 1142 c 0,119,120
+EndSplineSet
+Kerns2: 445 -99 "'kern' Horizontal Kerning lookup 2 subtable" 408 -90 "'kern' Horizontal Kerning lookup 2 subtable" 391 -97 "'kern' Horizontal Kerning lookup 2 subtable" 377 -53 "'kern' Horizontal Kerning lookup 2 subtable" 376 -47 "'kern' Horizontal Kerning lookup 2 subtable" 375 -47 "'kern' Horizontal Kerning lookup 2 subtable" 374 -47 "'kern' Horizontal Kerning lookup 2 subtable" 373 -47 "'kern' Horizontal Kerning lookup 2 subtable" 372 -47 "'kern' Horizontal Kerning lookup 2 subtable" 360 -106 "'kern' Horizontal Kerning lookup 2 subtable" 359 -84 "'kern' Horizontal Kerning lookup 2 subtable" 358 -84 "'kern' Horizontal Kerning lookup 2 subtable" 357 -84 "'kern' Horizontal Kerning lookup 2 subtable" 356 -84 "'kern' Horizontal Kerning lookup 2 subtable" 355 -84 "'kern' Horizontal Kerning lookup 2 subtable" 354 -84 "'kern' Horizontal Kerning lookup 2 subtable" 337 -102 "'kern' Horizontal Kerning lookup 2 subtable" 320 -102 "'kern' Horizontal Kerning lookup 2 subtable" 306 -5 "'kern' Horizontal Kerning lookup 2 subtable" 305 -67 "'kern' Horizontal Kerning lookup 2 subtable" 300 -62 "'kern' Horizontal Kerning lookup 2 subtable" 299 -96 "'kern' Horizontal Kerning lookup 2 subtable" 293 33 "'kern' Horizontal Kerning lookup 2 subtable" 291 -89 "'kern' Horizontal Kerning lookup 2 subtable" 289 -99 "'kern' Horizontal Kerning lookup 2 subtable" 30 -56 "'kern' Horizontal Kerning lookup 2 subtable" 29 -56 "'kern' Horizontal Kerning lookup 2 subtable" 17 -95 "'kern' Horizontal Kerning lookup 2 subtable" 16 -46 "'kern' Horizontal Kerning lookup 2 subtable" 15 -95 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar

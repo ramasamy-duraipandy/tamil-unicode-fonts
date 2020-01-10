@@ -1,0 +1,11 @@
+StartChar: Ydieresis
+Encoding: 376 376 329
+Width: 803
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 283 89 N 1 0 0 1 0 0 2
+Refer: 334 168 N 1 0 0 1 215 262 2
+Kerns2: 299 -45 "'kern' Horizontal Kerning lookup 2 subtable" 291 -45 "'kern' Horizontal Kerning lookup 2 subtable" 285 -59 "'kern' Horizontal Kerning lookup 2 subtable" 277 -21 "'kern' Horizontal Kerning lookup 2 subtable" 273 -45 "'kern' Horizontal Kerning lookup 2 subtable" 265 -45 "'kern' Horizontal Kerning lookup 2 subtable" 259 -59 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar

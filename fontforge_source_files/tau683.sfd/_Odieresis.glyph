@@ -1,0 +1,11 @@
+StartChar: Odieresis
+Encoding: 214 214 376
+Width: 1042
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 273 79 N 1 0 0 1 0 0 2
+Refer: 334 168 N 1 0 0 1 374 262 2
+Kerns2: 283 -52 "'kern' Horizontal Kerning lookup 2 subtable" 282 -49 "'kern' Horizontal Kerning lookup 2 subtable" 281 -25 "'kern' Horizontal Kerning lookup 2 subtable" 280 -26 "'kern' Horizontal Kerning lookup 2 subtable" 278 -11 "'kern' Horizontal Kerning lookup 2 subtable" 259 -39 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar

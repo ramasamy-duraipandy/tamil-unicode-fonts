@@ -1,0 +1,11 @@
+StartChar: Aacute
+Encoding: 193 193 355
+Width: 880
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 259 65 N 1 0 0 1 0 0 2
+Refer: 344 180 N 1 0 0 1 373 281 2
+Kerns2: 445 1 "'kern' Horizontal Kerning lookup 2 subtable" 309 -33 "'kern' Horizontal Kerning lookup 2 subtable" 307 -27 "'kern' Horizontal Kerning lookup 2 subtable" 306 -28 "'kern' Horizontal Kerning lookup 2 subtable" 305 -7 "'kern' Horizontal Kerning lookup 2 subtable" 304 -12 "'kern' Horizontal Kerning lookup 2 subtable" 301 -8 "'kern' Horizontal Kerning lookup 2 subtable" 299 -14 "'kern' Horizontal Kerning lookup 2 subtable" 291 21 "'kern' Horizontal Kerning lookup 2 subtable" 289 -16 "'kern' Horizontal Kerning lookup 2 subtable" 288 -4 "'kern' Horizontal Kerning lookup 2 subtable" 287 -15 "'kern' Horizontal Kerning lookup 2 subtable" 286 2 "'kern' Horizontal Kerning lookup 2 subtable" 283 -89 "'kern' Horizontal Kerning lookup 2 subtable" 281 -59 "'kern' Horizontal Kerning lookup 2 subtable" 280 -61 "'kern' Horizontal Kerning lookup 2 subtable" 279 -34 "'kern' Horizontal Kerning lookup 2 subtable" 278 -100 "'kern' Horizontal Kerning lookup 2 subtable" 275 -42 "'kern' Horizontal Kerning lookup 2 subtable" 273 -42 "'kern' Horizontal Kerning lookup 2 subtable" 265 -39 "'kern' Horizontal Kerning lookup 2 subtable" 261 -42 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar

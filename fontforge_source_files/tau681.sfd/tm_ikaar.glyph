@@ -1,0 +1,51 @@
+StartChar: tm_ikaar
+Encoding: 3007 3007 85
+Width: 360
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 50
+CALL
+PUSHW_4
+ 8
+ 79
+ 9
+ 54
+CALL
+PUSHW_1
+ 8
+SRP0
+PUSHW_1
+ 15
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 8
+MDAP[rnd]
+PUSHW_3
+ 4
+ 10
+ 53
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+-383 1037 m 2,0,1
+ -383 1102 -383 1102 -339 1147.5 c 128,-1,2
+ -295 1193 -295 1193 -234 1193 c 2,3,-1
+ 180 1193 l 2,4,5
+ 238 1193 238 1193 279 1154 c 128,-1,6
+ 320 1115 320 1115 320 1061 c 2,7,-1
+ 320 256 l 1,8,-1
+ 227 256 l 1,9,-1
+ 227 865 l 1,10,-1
+ -289 865 l 1,11,-1
+ -289 781 l 1,12,-1
+ -383 781 l 1,13,-1
+ -383 1037 l 2,0,1
+EndSplineSet
+EndChar

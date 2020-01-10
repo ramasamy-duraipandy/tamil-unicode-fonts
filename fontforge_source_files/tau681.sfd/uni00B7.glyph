@@ -1,0 +1,50 @@
+StartChar: uni00B7
+Encoding: 65657 -1 241
+Width: 360
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_4
+ 3
+ 5
+ 9
+ 4
+CALL
+NPUSHW
+ 11
+ 9
+ 9
+ 25
+ 9
+ 41
+ 9
+ 57
+ 9
+ 73
+ 9
+ 5
+DELTAP1
+SVTCA[y-axis]
+PUSHW_4
+ 0
+ 1
+ 6
+ 4
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+180 555 m 0,0,1
+ 213 555 213 555 235 532 c 128,-1,2
+ 257 509 257 509 257 477 c 0,3,4
+ 257 446 257 446 235 422.5 c 128,-1,5
+ 213 399 213 399 180 399 c 0,6,7
+ 148 399 148 399 125 422.5 c 128,-1,8
+ 102 446 102 446 102 477 c 0,9,10
+ 102 509 102 509 125 532 c 128,-1,11
+ 148 555 148 555 180 555 c 0,0,1
+EndSplineSet
+EndChar

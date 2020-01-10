@@ -1,0 +1,11 @@
+StartChar: Otilde
+Encoding: 213 213 375
+Width: 1042
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 273 79 N 1 0 0 1 0 0 2
+Refer: 323 732 N 1 0 0 1 376 260 2
+Kerns2: 283 -52 "'kern' Horizontal Kerning lookup 2 subtable" 280 -26 "'kern' Horizontal Kerning lookup 2 subtable" 278 -11 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar

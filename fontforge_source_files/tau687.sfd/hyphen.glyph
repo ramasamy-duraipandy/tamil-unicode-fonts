@@ -1,0 +1,188 @@
+StartChar: hyphen
+Encoding: 45 45 16
+Width: 908
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 60
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 23
+MDAP[rnd]
+PUSHW_1
+ 25
+MDAP[rnd]
+PUSHW_1
+ 28
+MDAP[rnd]
+PUSHW_1
+ 34
+MDAP[rnd]
+PUSHW_1
+ 37
+MDAP[rnd]
+PUSHW_1
+ 39
+MDAP[rnd]
+PUSHW_1
+ 41
+MDAP[rnd]
+PUSHW_4
+ 55
+ 91
+ 36
+ 64
+CALL
+PUSHW_1
+ 28
+SRP0
+PUSHW_2
+ 3
+ 91
+MIRP[rp0,rnd,grey]
+PUSHW_1
+ 5
+MDRP[rp0,grey]
+PUSHW_1
+ 5
+MDAP[rnd]
+PUSHW_1
+ 3
+SRP0
+PUSHW_1
+ 7
+MDRP[rp0,grey]
+PUSHW_1
+ 7
+MDAP[rnd]
+PUSHW_1
+ 28
+SRP0
+PUSHW_1
+ 24
+MDRP[rp0,grey]
+PUSHW_1
+ 24
+MDAP[rnd]
+PUSHW_1
+ 28
+SRP0
+PUSHW_1
+ 26
+MDRP[rp0,grey]
+PUSHW_1
+ 26
+MDAP[rnd]
+PUSHW_1
+ 36
+SRP0
+PUSHW_1
+ 38
+MDRP[rp0,grey]
+PUSHW_1
+ 38
+MDAP[rnd]
+PUSHW_1
+ 36
+SRP0
+PUSHW_1
+ 40
+MDRP[rp0,grey]
+PUSHW_1
+ 40
+MDAP[rnd]
+PUSHW_1
+ 36
+SRP0
+PUSHW_1
+ 42
+MDRP[rp0,grey]
+PUSHW_1
+ 42
+MDAP[rnd]
+PUSHW_1
+ 55
+SRP0
+PUSHW_1
+ 49
+MDRP[rp0,grey]
+PUSHW_1
+ 49
+MDAP[rnd]
+PUSHW_1
+ 55
+SRP0
+PUSHW_1
+ 52
+MDRP[rp0,grey]
+PUSHW_1
+ 52
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+976 415 m 1,0,-1
+ 972 394 l 1,1,-1
+ 961 389 l 1,2,-1
+ 957 385 l 1,3,-1
+ 308 385 l 1,4,-1
+ 290 387 l 1,5,-1
+ 271 389 l 1,6,-1
+ 232 394 l 1,7,-1
+ 206 402 l 1,8,-1
+ 194 402 l 1,9,-1
+ 181 404 l 1,10,-1
+ 155 406 l 1,11,-1
+ 135 411 l 1,12,-1
+ 95 417 l 1,13,-1
+ 82 419 l 1,14,-1
+ 80 434 l 1,15,-1
+ 114 439 l 1,16,-1
+ 123 443 l 1,17,-1
+ 131 443 l 1,18,-1
+ 146 447 l 1,19,-1
+ 168 447 l 1,20,-1
+ 185 452 l 1,21,-1
+ 204 456 l 1,22,-1
+ 224 458 l 1,23,-1
+ 247 460 l 1,24,-1
+ 267 460 l 1,25,-1
+ 286 467 l 1,26,-1
+ 305 469 l 1,27,-1
+ 963 471 l 1,28,-1
+ 976 465 l 1,29,-1
+ 976 456 l 1,30,-1
+ 976 437 l 1,31,-1
+ 976 415 l 1,0,-1
+968 331 m 2,32,-1
+ 966 314 l 1,33,-1
+ 959 310 l 1,34,35
+ 959 299 959 299 946 299 c 2,36,-1
+ 178 297 l 1,37,-1
+ 140 301 l 1,38,-1
+ 127 303 l 1,39,-1
+ 105 305 l 1,40,-1
+ 88 310 l 1,41,-1
+ 73 310 l 1,42,-1
+ 73 329 l 1,43,-1
+ 88 329 l 1,44,-1
+ 99 331 l 1,45,-1
+ 120 333 l 1,46,-1
+ 140 338 l 1,47,-1
+ 178 342 l 1,48,-1
+ 215 348 l 1,49,-1
+ 239 348 l 1,50,51
+ 258 353 258 353 262 357 c 1,52,-1
+ 271 357 l 1,53,-1
+ 297 357 l 1,54,-1
+ 953 359 l 1,55,-1
+ 966 348 l 2,56,57
+ 970 344 970 344 968 331 c 2,32,-1
+EndSplineSet
+Kerns2: 283 -30 "'kern' Horizontal Kerning lookup 2 subtable" 278 -95 "'kern' Horizontal Kerning lookup 2 subtable" 259 -12 "'kern' Horizontal Kerning lookup 2 subtable"
+EndChar
